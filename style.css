@@ -224,7 +224,7 @@ a:hover {
     height: 200px;
     width: 400px;
     margin: 1rem 1rem 1rem 1rem;
-    background-image: url('../img/adbtracao.png');
+    background-image: url('img/adbtracao.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
